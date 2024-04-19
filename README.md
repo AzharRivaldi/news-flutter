@@ -4,9 +4,9 @@ Tutorial Membuat Aplikasi Berita dengan Flutter
 https://youtu.be/FaJS6yX0kqM
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2024/04/tutorial-membuat-aplikasi-juz-amma-dengan-flutter.html
+https://rivaldi48.blogspot.com/2024/04/tutorial-membuat-aplikasi-berita-dengan-flutter.html
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir72GKxj9ZU9nQ-6fERoHf7YgcfsVZKlPm4XiDl7WTQBBtwXM-cqdxqd09DP3znLaP_ikv4yTEyfTjxyA86yxIhqZB7OK7JQlPe6CPfnEEcNTKqHVukC2SAKFrAiTFBj7E_Yw-3DyyLVq5C-sXZccfkFao3taP201wAUQ_cmOYuG9luk4maTWNKQbR2Om1/s1280/Tutorial%20Membuat%20Aplikasi%20Juz%20Amma%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/04/tutorial-membuat-aplikasi-juz-amma-dengan-flutter.html" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNcu1q7L1v5WGYkAFqBxtq9_BT_lMCIbj1FUdb_uayA8-X406yGhdNRCfYV_AgPfrQX8C5C29u81F7TLBUGDozNHKz30UTfX0lP1J9EMapDvC46mNrIGqOWXHgF_7ihlE6RrJln1h_bZ1WOrBn3YB1nmrEvISl4f1YZ1AnZHbWWDqYK32Q0BSwTSSUvLBh/s1280/Tutorial%20Membuat%20Aplikasi%20Berita%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/04/tutorial-membuat-aplikasi-juz-amma-dengan-flutter.html" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
